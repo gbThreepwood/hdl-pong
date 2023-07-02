@@ -3,6 +3,17 @@ A realization of the classic Pong game using pure HDL (Verilog). Mostly a steppi
 
 The project is heavily inspired by the tutorials on https://nandland.com/ and tested on the Go Board https://nandland.com/the-go-board/
 
+## Gameplay
+
+The following picture shows how the game looks while played on a (relatively) old Panasonic television with VGA support:
+
+![Picture of the game in action on a old Panasonic television.](doc/img/game-display.jpg)
+
+The Go Board also displays the current score on the 7-segment display:
+
+![Picture of the Go Board while the game is running.](doc/img/go-board.jpg)
+
+
 ## Hardware
 
 * Go Board
